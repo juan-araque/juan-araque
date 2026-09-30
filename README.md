@@ -35,4 +35,4 @@
 ---
 
 ### 📬 Contacto
-- **Correo electrónico:** [juanaraque2007@gmail.com.com](mailto:juanaraque2007@gmail.com)
+- **Correo electrónico:** [juanaraque2007@gmail.com](mailto:juanaraque2007@gmail.com)
