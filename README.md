@@ -1,12 +1,11 @@
-<h1 align="center">¡Hola! 👋 Soy Juan Araque Martínez</h1>
-<h3 align="center">Estudiante de DAW con gran interés en IA y automatización 👨‍💻</h3>
+<h1 align="center">Juan Araque Martínez</h1>
+<h3 align="center">Desarrollo de Aplicaciones Web (DAW) | Backend & Automatización</h3>
 
 ---
 
-### 🚀 Sobre mí
-* 📚 Estudiante de **Desarrollo de Aplicaciones Web (DAW)**.
-* 🤖 Interesado en el desarrollo backend, la inteligencia artificial y la automatización.
-* 🌱 Actualmente consolidando buenas prácticas de control de versiones y despliegue.
+### 💡 Perfil Profesional
+* Estudiante de **Desarrollo de Aplicaciones Web (DAW)** con enfoque en el desarrollo backend, la lógica de negocio y la automatización de procesos.
+* Interés activo en arquitecturas de software eficientes y buenas prácticas de control de versiones y despliegue continuo.
 
 ---
 
@@ -22,12 +21,14 @@
 
 ---
 
-### 📊 Mis estadísticas en GitHub
+### 🚀 Proyectos Destacados
+* **[TorneoMaker](https://click-torneos.github.io/TorneoMaker/)**: Aplicación web orientada a la creación y gestión de torneos, alojada y desplegada mediante GitHub Pages.
+
+---
+
+### 📊 Estadísticas en GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juan-araque&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 ---
-
-### 📬 Conecta conmigo
-* 💼 **LinkedIn:** [Añade aquí el enlace a tu perfil](#)
