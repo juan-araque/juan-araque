@@ -23,7 +23,6 @@
 ---
 
 ### 🛠️ Proyectos Destacados
-- **[TorneoMaker](https://click-torneos.github.io/TorneoMaker/)**: Aplicación web orientada a la creación y gestión de torneos, desarrollada con despliegue continuo mediante GitHub Pages.
 
 ---
 
