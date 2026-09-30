@@ -1,15 +1,16 @@
 <h1 align="center">Juan Araque Martínez</h1>
-<h3 align="center">Desarrollo de Aplicaciones Web (DAW) | Backend & Automatización</h3>
+<h3 align="center">Desarrollo de Aplicaciones Web (DAW) | Backend & Lógica de Negocio</h3>
 
 ---
 
-### // Perfil Profesional
-- Estudiante de **Desarrollo de Aplicaciones Web (DAW)** con enfoque en el desarrollo backend, la lógica de negocio y la automatización de procesos.
-- Interés activo en arquitecturas de software eficientes y buenas prácticas de control de versiones y despliegue continuo.
+### 🚀 Perfil Profesional
+- Estudiante del último curso de **Desarrollo de Aplicaciones Web (DAW)**, con un fuerte enfoque en el desarrollo backend, la arquitectura de software y la automatización de procesos.
+- Perfil multidisciplinar con experiencia en el **sector financiero, inversión y bolsa**, combinando la capacidad técnica de programación con una sólida visión analítica orientada a negocio y objetivos económicos avanzados.
+- Interés activo en metodologías limpias, control de versiones y despliegue continuo.
 
 ---
 
-### </> Stack Tecnológico
+### 💻 Stack Tecnológico
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Jakarta%20EE-F80000?style=flat&logo=jakartaee&logoColor=white" />
@@ -18,15 +19,19 @@
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" />
 </p>
----
-
-### # Proyectos Destacados
 
 ---
 
-### [~] Actividad en GitHub
+### 🛠️ Proyectos Destacados
+
+---
+
+### 📊 Actividad en GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juan-araque&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 ---
+
+### 📬 Contacto
+- **LinkedIn:** [Añade aquí el enlace a tu perfil](#)
