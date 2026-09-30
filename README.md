@@ -3,13 +3,13 @@
 
 ---
 
-### 💡 Perfil Profesional
-* Estudiante de **Desarrollo de Aplicaciones Web (DAW)** con enfoque en el desarrollo backend, la lógica de negocio y la automatización de procesos.
-* Interés activo en arquitecturas de software eficientes y buenas prácticas de control de versiones y despliegue continuo.
+### // Perfil Profesional
+- Estudiante de **Desarrollo de Aplicaciones Web (DAW)** con enfoque en el desarrollo backend, la lógica de negocio y la automatización de procesos.
+- Interés activo en arquitecturas de software eficientes y buenas prácticas de control de versiones y despliegue continuo.
 
 ---
 
-### 💻 Stack Tecnológico
+### </> Stack Tecnológico
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Jakarta%20EE-F80000?style=for-the-badge&logo=jakartaee&logoColor=white" />
@@ -21,12 +21,11 @@
 
 ---
 
-### 🚀 Proyectos Destacados
-* **[TorneoMaker](https://click-torneos.github.io/TorneoMaker/)**: Aplicación web orientada a la creación y gestión de torneos, alojada y desplegada mediante GitHub Pages.
+### # Proyectos Destacados
 
 ---
 
-### 📊 Estadísticas en GitHub
+### [~] Actividad en GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juan-araque&show_icons=true&theme=radical&hide_border=true" />
 </p>
