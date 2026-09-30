@@ -6,7 +6,7 @@
 ### 🚀 Perfil Profesional
 - Estudiante del último curso de **Desarrollo de Aplicaciones Web (DAW)**, con un fuerte enfoque en el desarrollo backend, la arquitectura de software y la automatización de procesos.
 - Perfil multidisciplinar con experiencia en el **sector financiero, inversión y bolsa**, combinando la capacidad técnica de programación con una sólida visión analítica orientada a negocio y objetivos económicos.
-- Interés activo en metodologías limpias, control de versiones y despliegue continuo.
+- Interés activo en Inteligencia Artificial y Agentes.
 
 ---
 
