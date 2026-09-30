@@ -1,16 +1,24 @@
-### Soy Juan Araque Martinez
-Estudiante de **Desarrollo de Aplicaciones Web (DAW)** interesado en IA y automatización
-* ✉️ [Correo](mailto:juanaraque2007@example.com)
+<h1 align="center">¡Hola a todos! 👋 Soy Juan Araque Martínez</h1>
+<h3 align="center">Estudiante de DAW y entusiasta del desarrollo de software 👨‍💻</h3>
 
-### 🛠️ Tecnologías y Herramientas
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jakarta%20EE-F80000?style=for-the-badge&logo=jakartaee&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+<br>
+
+<p align="center">
+  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+###
+* 📚 Consolidando mis conocimientos en **Java, Jakarta EE y Python**.
+* 🌱 Aprendiendo buenas prácticas de control de versiones y despliegue.
+
+---
+
+### 📊 Mis estadísticas en GitHub
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true" />
 </p>
