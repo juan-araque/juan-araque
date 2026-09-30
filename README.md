@@ -23,6 +23,7 @@
 ---
 
 ### 🛠️ Proyectos Destacados
+- **[TorneoMaker](https://click-torneos.github.io/TorneoMaker/)**: Aplicación web orientada a la creación y gestión de torneos, desarrollada con despliegue continuo mediante GitHub Pages.
 
 ---
 
@@ -34,4 +35,4 @@
 ---
 
 ### 📬 Contacto
-- **LinkedIn:** [Añade aquí el enlace a tu perfil](#)
+- **Correo electrónico:** [juanaraque2007@gmail.com.com](mailto:juanaraque2007@gmail.com)
