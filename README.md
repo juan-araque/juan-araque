@@ -37,11 +37,15 @@
 
 ---
 
-### 🛠️ Proyectos Destacados
-<a href="https://github.com/juan-araque/Federacion-de-Golf-de-Castilla-La-Mancha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juan-araque&repo=Federacion-de-Golf-de-Castilla-La-Mancha&theme=tokyonight" alt="Web Federación de Golf de Castilla-La Mancha"/>
-</a>
 
+### 🛠️ Proyectos Destacados
+<p align="left">
+  <a href="https://github.com/juan-araque/Federacion-de-Golf-de-Castilla-La-Mancha">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juan-araque&repo=Federacion-de-Golf-de-Castilla-La-Mancha&theme=tokyonight" alt="Web        Federación de Golf de Castilla-La Mancha"/>
+  </a>
+</p>
+
+---
 ### 📊 Actividad en GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juan-araque&show_icons=true&theme=radical&hide_border=true" />
