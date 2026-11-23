@@ -26,7 +26,7 @@
 - **Python Essentials** — *Cisco Networking Academy*
 
 <p align="left">
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2abc5882-249c-4bfb-87da-86224ece3974" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <img src="https://images.credly.com/size/220x220/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="110" alt="Python Essentials - Cisco" />
 </p>
 
 ---
