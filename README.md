@@ -22,6 +22,15 @@
 
 ---
 
+### 🏆 Certificaciones e Insignias
+- **Python Essentials** — *Cisco Networking Academy*
+
+<p align="left">
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2abc5882-249c-4bfb-87da-86224ece3974" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</p>
+
+---
+
 ### 🛠️ Proyectos Destacados
 
 ---
