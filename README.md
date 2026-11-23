@@ -43,11 +43,11 @@
 ---
 
 ### 🛠️ Proyectos Destacados
-
-#### 🏌️‍♂️ [Web Oficial — Federación de Golf de Castilla-La Mancha](https://github.com/juan-araque/Federacion-de-Golf-de-Castilla-La-Mancha)
-Desarrollo colaborativo (en equipo de 3 personas) y maquetación multipágina de la web oficial de la federación durante las prácticas de DAW, migrando posteriormente toda la arquitectura estática a un entorno dinámico en producción sobre WordPress.
-* **Stack:** `HTML5` · `CSS3` · `JavaScript` · `PHP` · `WordPress` · `Python`
-* **Enlace:** [Ver Repositorio](https://github.com/juan-araque/Federacion-de-Golf-de-Castilla-La-Mancha)
+<p align="left">
+  <a href="https://github.com/juan-araque/Federacion-de-Golf-de-Castilla-La-Mancha">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juan-araque&repo=Federacion-de-Golf-de-Castilla-La-Mancha&theme=tokyonight" alt="Web Federación de Golf de Castilla-La Mancha" />
+  </a>
+</p>
 
 ---
 
