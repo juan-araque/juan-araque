@@ -25,4 +25,38 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white" alt="
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+</p>
+
+---
+
+### 🏆 Certificaciones e Insignias
+- **Python Essentials 1** — *Cisco Networking Academy*
+
+<p align="left">
+  <a href="https://www.credly.com/users/juan-araque.9da158ec" target="_blank">
+    <img src="https://images.credly.com/size/220x220/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="105" alt="Python Essentials - Cisco" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Proyectos Destacados
+
+#### 🏌️‍♂️ [Web Oficial — Federación de Golf de Castilla-La Mancha](https://github.com/juan-araque/Federacion-de-Golf-de-Castilla-La-Mancha)
+Desarrollo colaborativo (en equipo de 3 personas) y maquetación multipágina de la web oficial de la federación durante las prácticas de DAW, migrando posteriormente toda la arquitectura estática a un entorno dinámico en producción sobre WordPress.
+* **Stack:** `HTML5` · `CSS3` · `JavaScript` · `PHP` · `WordPress` · `Python`
+* **Enlace:** [Ver Repositorio](https://github.com/juan-araque/Federacion-de-Golf-de-Castilla-La-Mancha)
+
+---
+
+### 📊 Actividad en GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juan-araque&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub de Juan Araque" />
+</p>
+
+---
+
+### 📬 Contacto
+- **Correo electrónico:** [juanaraque2007@gmail.com](mailto:juanaraque2007@gmail.com)
