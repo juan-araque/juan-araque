@@ -6,13 +6,13 @@
 ### 🚀 Perfil Profesional
 - Estudiante de último curso de **Desarrollo de Aplicaciones Web (DAW)**, enfocado en el desarrollo full-stack, la creación de APIs y la construcción de aplicaciones web escalables.
 - Interés y conocimientos en el **sector financiero, inversión y análisis de datos**, combinando el desarrollo de software con una visión analítica orientada a producto y negocio.
-- Explorando activamente el desarrollo con **Inteligencia Artificial y agentes**.
+- Explorando activamente el desarrollo con **Inteligencia Artificial, agentes y despliegue en Cloud**.
 
 ---
 
 ### 💻 Stack Tecnológico
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,py,nodejs,express,angular,react,html,scss,js,mongodb,mysql,docker,git,github,maven,idea&perline=9" alt="Stack Tecnológico" />
+  <img src="https://skillicons.dev/icons?i=py,java,ts,angular,nodejs,mongodb,docker,aws" alt="Stack Tecnológico" />
 </p>
 
 ---
