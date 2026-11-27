@@ -35,12 +35,5 @@
 
 ---
 
-### 📊 Actividad en GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juan-araque&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub de Juan Araque" />
-</p>
-
----
-
 ### 📬 Contacto
 - **Correo electrónico:** [juanaraque2007@gmail.com](mailto:juanaraque2007@gmail.com)
